@@ -5,10 +5,10 @@ import { GitBranch, Mail, ExternalLink } from "lucide-react";
 
 const projects = [
   {
-    title: "AI Chatbot",
+    title: "Text To Speech",
     description:
-      "OpenAI-powered assistant that helps answer CS questions and explain concepts.",
-    tech: ["Python", "OpenAI API", "Flask"],
+      "Built a client-side Text-to-Speech web application using the Web Speech API.",
+    tech: ["CSS", "Javascript", "HTML"],
     github: "#",
   },
   {
