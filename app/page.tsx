@@ -9,7 +9,7 @@ const projects = [
     description:
       "Built a client-side Text-to-Speech web application using the Web Speech API.",
     tech: ["CSS", "Javascript", "HTML"],
-    github: "#",
+    href : "https://tts-project-pi.vercel.app/"
   },
   {
     title: "ML Dashboard",
